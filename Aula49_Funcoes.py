@@ -4,7 +4,6 @@ Argumento nomeado tem nome com sinal de igual
 Argumento não nomeado recebe apenas o argumento (valor)
 """
 
-
 def soma(x, y, z):
     # A função 'soma' é definida com três parâmetros: x, y, e z.
     # Esses parâmetros são as entradas que a função vai usar para realizar sua tarefa.
